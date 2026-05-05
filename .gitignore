@@ -1,0 +1,13 @@
+dgeb_env/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+*.npy
+*.pkl
+*.pt
+*.pth
+*.h5
+
+.cache/
+huggingface/
